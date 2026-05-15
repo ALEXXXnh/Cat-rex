@@ -1,0 +1,14 @@
+body {
+    width: 100%;
+    background-color: rgb(169, 205, 217);
+}
+h1 {
+    position: absolute;
+    font-size: 250px;
+    color: rgb(94, 166, 230);
+    font-family:  'Times New Roman', Times, serif;
+    left: 50%;
+    top: -120px;
+    transform: translateX(-50%);
+
+}
