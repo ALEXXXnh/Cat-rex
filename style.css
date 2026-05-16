@@ -1,14 +1,36 @@
+
+*   {padding: 0%;
+    margin: 0%;}
 body {
-    width: 100%;
-    background-color: rgb(169, 205, 217);
+    width: 100vh;
+    background-color: rgb(114, 76, 215);
+    display: flex;
+    
+    align-items: center;
 }
 h1 {
     position: absolute;
     font-size: 250px;
-    color: rgb(94, 166, 230);
-    font-family:  'Times New Roman', Times, serif;
+    color: rgba(194, 179, 255, 0.504);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     left: 50%;
-    top: -120px;
+    top: 20px;
     transform: translateX(-50%);
-
+    margin: 0%;
+    z-index: 1;
+}
+.container {
+    position: absolute;
+    height: 350px;
+    width: 900px;
+    background:linear-gradient(rgb(57, 43, 149));
+    
+    margin: auto;
+    
+    top: 35%;
+}
+.cat {
+    position: absolute;
+    width: 80px;
+    height: 80px;
 }
