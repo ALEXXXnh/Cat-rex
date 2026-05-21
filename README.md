@@ -1,5 +1,6 @@
 #CatRex
 Cat rex is a copy from DinoRun game from google, this web game its a practice to learn more about javascript and other lenguages
+The purpose is understan more functions to built game and get familiarized with coding, also i'm trying to improve my english habilities and I want to have orevious projects for college:3
 First: I made the structure of the page, built the html, drew decorations, drew elements and made a board to insert my playable canvas
 so I built the basic html structure
 . put background
