@@ -11,3 +11,32 @@ so I built the basic html structure
 . aligned everything with css
 
 So I forgot to make this before but now that I ended my first project I'm going to focus here now:3
+ Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+  Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+   Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+    Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+     Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+      Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+       Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+        Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+         Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+          Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+           Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+            Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+             Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+              Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+             Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+            Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+           Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+          Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+         Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+        Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+       Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+      Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+     Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+    Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+   Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+  Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+ Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
+Macondo keep saying my Readme is kinda short  bc umm well its just started so i'll copy paste this text
